@@ -4,4 +4,7 @@ version: 1.0.0
 author: Your Name Here
 
 main: org.devathon.contest2016.DevathonPlugin
+commands:
+  test:
+    description: test command
 
