@@ -1,3 +1,15 @@
+#Explanation:
+This plugin basically created wireless redstone. In order to do this you'll need two devices. A transmittor & a receiver.
+
+## Transmittor
+    This will send the wireless redstone to nearby receivers. To activate the device you need a direct redstone signal being put in.
+    Each transmittor has a 20 block range and can power an unlimited amount of receivers
+## Receiver
+    This will receive wireless redstone signals from nearby transmittors within range. It'll directly output redstone on the base block
+
+More info, recipe and demo found here: https://www.youtube.com/watch?v=QZN7fuOP78Q
+
+
 # Devathon Project
 This is the base layout for your Devathon Project. It includes several scripts to make running incredibly easy on Windows, Mac, and Linux.
 
